@@ -26,6 +26,8 @@ Gostaríamos de entender até onde você conseguir dentro do prazo de uma semana
 - Uma pipeline de integração contínua para essa API utilizando tecnologias como Azure DevOps, TravisCI, Github Actions ou algum outro de sua preferência.
 - Subir a aplicação em algum PaaS como o Heroku ou qualquer outro cloud provider (provavelmente você terá que assinar uma conta free tier ou se aproveitar de limites gratuitos oferecidos por cloud providers).
 
+**Atenção**: Apesar de sua simplicidade, trate a aplicação como algo que fosse ser usado de fato no mundo real. Não deve haver duplicidade de dados, por exemplo. A API deve retornar os dados de forma correta e consistente. Mesmo as coisas simples precisam de atenção e qualidade. 
+
 ### Informações da API
 
 #### Entidade Usuário
@@ -43,8 +45,11 @@ Gostaríamos de entender até onde você conseguir dentro do prazo de uma semana
 - Uma rota para buscar um usuário através de CPF
 
 ### Plus
+- Escrever testes unitários, executados pela pipe de CI
 - Utilizar um banco de dados (ex: PostgreSQL, MariaDB) para guardar os dados da API.
 - Utilizar um docker-compose que sobe a API + banco de dados localmente.
+- Escrever um teste funcional, executado pela pipe de CI
+
 
 ## Entregável 2
 
