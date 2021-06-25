@@ -43,8 +43,11 @@ Gostaríamos de entender até onde você conseguir dentro do prazo de uma semana
 - Uma rota para buscar um usuário através de CPF
 
 ### Plus
+- Escrever testes unitários, executados pela pipe de CI
 - Utilizar um banco de dados (ex: PostgreSQL, MariaDB) para guardar os dados da API.
 - Utilizar um docker-compose que sobe a API + banco de dados localmente.
+- Escrever um teste funcional, executado pela pipe de CI
+
 
 ## Entregável 2
 
