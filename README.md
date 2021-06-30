@@ -17,7 +17,7 @@ O mínimo que esperamos é o entregável 1 e ele pode ser incrementado até cheg
 
 # O prazo
 
-Gostaríamos de entender até onde você conseguir dentro do prazo de uma semana desde o momento em que o desafio é enviado. 
+Gostaríamos de entender até onde você consegue ir dentro do prazo de uma semana desde o momento em que o desafio é enviado. 
 
 ## Entregável 1
 
