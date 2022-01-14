@@ -7,7 +7,7 @@ Bem vindo(a)! Esse é o STech Challenge DevOps | SRE!
 - [Keep it simple](https://pt.wikipedia.org/wiki/Princ%C3%ADpio_KISS), entendemos que você possui suas prioridades e nossa proposta é com esse desafio é ter uma idéia geral de como você faz seus códigos, toma suas decisões arquiteturais e o seu conhecimento geral sobre os assuntos abordados.
 - Seu desafio precisa estar versionado no Github, em um repositório público ou privado (vamos te passar usuários do Github para compartilhar a solução se for a sua preferência).
 - Documentação é primordial e vamos nos guiar por ela ;)
-- A aplicação ser fácil de ser executada localmente, então abuse de scripts em Makefiles e o que for necessário. 
+- A aplicação deve ser fácil de ser executada localmente, então abuse de scripts em Makefiles e o que for necessário. 
 - Não tem problema se você não conseguir finalizar tudo! Não deixe de enviar seu desafio por isso!
 
 # O desafio
